@@ -1,4 +1,4 @@
 ## Guessing Game
-The file was created on: 13:53:19 07/03/20
+The file was created on: 17:03:30 07/04/20
 
-The number of lines of code in guessinggame.sh are: 22
+The number of lines of code in guessinggame.sh are: 29
